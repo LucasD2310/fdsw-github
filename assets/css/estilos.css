@@ -11,13 +11,13 @@ body {
   background-position: right;
 }
 
-/* Mis trabajos */
+/* Mis favoritos */
 
-#Mis-trabajos .image-top {
+#Mis-favoritos .image-top {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: bottom;
 }
 
 /* Contacto */
